@@ -209,7 +209,6 @@ The frontend connects to the backend API with the following main endpoints:
 
 | Email | Password | Role |
 |-------|----------|------|
-| chandu@gmail.com | 123456 | Lawyer A |
 | honey@gmail.com | 123456 | Lawyer B |
 
 ---
